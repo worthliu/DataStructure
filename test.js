@@ -113,3 +113,5 @@ graph.addEdge("B", "F");
 graph.addEdge("E", "I");
 
 console.log(graph.printGraph());
+
+graph.bfs(myVertices[0], gp.printValue);
